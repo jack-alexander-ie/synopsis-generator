@@ -1,0 +1,22 @@
+TODO:
+
+- Add multiple character support (can't do Spanish and Danish at the same time currently)
+- Change background color to darker color to match
+- Check file validity
+- Add usage support
+- Add a UI
+- Report packages not installed
+- Make this a master image generator
+- Renaming of some global variables
+- Round image edges
+- Add font size support to DB
+- Remove functions from constructors - not good for inheritance!
+
+- Currently, script pulls all values from the excel file and stores in memory.
+  This is fine for a small number of titles, but with a large number of titles, memory would be quickly eaten
+
+- Add support for:
+
+    Albums covers
+    Magazine covers
+    Shopping
